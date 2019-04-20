@@ -2,15 +2,14 @@
 
 # How to run
 
-`1- Clone the project using *git clone -----*`
+1- Clone the project using *git clone -----*
 
-`2- After cloning, open project in your favorite IDE`
+2- After cloning, open project in your favorite IDE
 
-`3- run *npm install* to install all the dependencies required for the project`
+3- run *npm install* to install all the dependencies required for the project
 
-`4- run the project with following command`
-
-*npm run watch*
+4- run the project with following command:
+  *npm run watch*
 
 # Postman Routes
 
