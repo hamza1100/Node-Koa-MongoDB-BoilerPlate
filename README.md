@@ -2,7 +2,7 @@
 
 # How to run
 
-1- Clone the project using *git clone -----*
+1- Clone the project using *git clone https://github.com/hamza1100/Node-Koa-MongoDB-BoilerPlate.git
 
 2- After cloning, open project in your favorite IDE
 
