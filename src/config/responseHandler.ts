@@ -6,5 +6,5 @@ export const responseHandler = async (ctx: Context, result: any) => {
             status: 200
         },
         data: result
-    }
-}
+    };
+};
